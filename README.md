@@ -1,4 +1,4 @@
-# Matriz-de-vota-o-thehuxley
+# Matriz de votação thehuxley
 ## Descrição
 
 Muito tempo atrás, em um lugar muito, muito distante, foi fundado o Reino Das Princesas Unidas. Trata-se de um grande Reino formado pela união dos povos liderados pelas princesas da Disney. Agora este Reino precisa eleger seu representante e é sua tarefa ajudar neste ponto.
